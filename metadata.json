@@ -1,0 +1,6 @@
+{
+  "name": "AI Chatbot",
+  "description": "A clean, customizable AI chatbot powered by Gemini. Engage in conversation and get instant, streaming responses. The bot's instructions and personality can be easily configured in the code.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
